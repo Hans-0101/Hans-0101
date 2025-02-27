@@ -8,7 +8,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
-        <p style="1px solid #d8dee4; color: #282d33;">📌 Programming Languages</p>
+        <h3 style="1px solid #d8dee4; color: #282d33;">📌 Programming Languages</h3>
         <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
           <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
