@@ -5,12 +5,14 @@
 - **ECE la Grande École de l'Ingénierie Numérique, Paris, France** <br/>
 | Master of Information System - 1th grade (Exchange Student)
 
+<br/>
 ## 🏆 Honors
 - **Presidential Science Scholarship** <br/>
 | Awarded to top 60 science and engineering students nationwide, under the name of the President of the Republic of Korea
 - **Academic Excellence Scholarship** <br/>
 | Sungkyunkwan Medical AI Convergence Talent Training Group 
 
+<br/>
 ## 🏅 Awards
 - '24 Fall Sungkyunkwan Univ. College of Computing Research Paper/Project Award - Bronze Prize
 - '23 SKKU.THON - Gold Prize
@@ -20,6 +22,7 @@
 - '22 Sungkyunkwan Metaverse Hackathon - 2nd Place
 - '23, '22, '21 Sungkyunkwan SW Mentoring Results Presentation - 2nd Place
 
+<br/>
 ## 💻 Tech Stacks
 ##### 📌 Programming Languages
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,17 +34,18 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) <br/>
 | **App** <br/>
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-- **Database**
+- **Database** <br/>
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- **Operating System**
+- **Operating System** <br/>
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- **Machine Learning & Deep Learning**
+- **Machine Learning & Deep Learning** <br/>
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-- **Cloud & Infrastructure**
+- **Cloud & Infrastructure** <br/>
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- **Version Control**
+- **Version Control** <br/>
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+<br/>
 ## 📚 Research Experiences
 - **Sungkyunkwan Univ. EMBA Business Administration and Information** <br/>
 | STAGE-AI Metrics: Designing Evaluation Metrics for Generative AI in Enterprises
@@ -50,6 +54,7 @@
 - **Sungkyunkwan Univ. Information and Intelligence System Lab** <br/>
 | Optimizing Multi-Label Classification Models with Imbalanced Datasets
 
+<br/>
 ## 🧳 Project Experiences
 - '24 SPARK (Start-Up Project)
 - '24 Korea-Nordic Future Challenge (Korea Foundation for Advanced Studies, KTH Royal Institute of Technology, Uppsala University, Aalto University)
@@ -58,6 +63,7 @@
 - '22 KAIST Immersion Camp: Intensive Programming and Startup
 - '21 Shinhan Bank (Industry-Academic Cooperation Project)
 
+<br/>
 ## 👥 Club Activities
 - **Federation of Gen AI Club Luddite** <br/>
 | Vice President
