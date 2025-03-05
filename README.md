@@ -1,8 +1,8 @@
 
 ## 👩🏻‍🎓 Education
-- **Sungyunkwan University, Suwon(Seoul), Republic of Korea** <br/>
+- **Sungyunkwan University, Suwon(Seoul), Republic of Korea🇰🇷** <br/>
 | Bachelor of Computer Science & Engineering
-- **ECE la Grande École de l'Ingénierie Numérique, Paris, France** <br/>
+- **ECE la Grande École de l'Ingénierie Numérique, Paris, France🇫🇷** <br/>
 | Master of Information System - 1th grade (Exchange Student)
 
 
