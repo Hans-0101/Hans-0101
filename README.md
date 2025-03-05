@@ -1,8 +1,6 @@
-<center> <img src="[/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG](https://github.com/user-attachments/assets/1840c97b-c4d0-4a86-96fd-4b7521cf025e)"> </center>
-
-
-
-출처: https://cutemoomin.tistory.com/entry/Readme-파일에-이미지-넣기-마크다운-이미지 [무민은귀여워:티스토리]
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/1840c97b-c4d0-4a86-96fd-4b7521cf025e"/>
+</p>
 
 ## 👩🏻‍🎓 Education
 - **Sungkyunkwan University, Suwon(Seoul), Republic of Korea🇰🇷** <br/>
