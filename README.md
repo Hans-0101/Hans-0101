@@ -5,14 +5,13 @@
 - **ECE la Grande École de l'Ingénierie Numérique, Paris, France** <br/>
 | Master of Information System - 1th grade (Exchange Student)
 
-<br/>
+
 ## 🏆 Honors
 - **Presidential Science Scholarship** <br/>
 | Awarded to top 60 science and engineering students nationwide, under the name of the President of the Republic of Korea
 - **Academic Excellence Scholarship** <br/>
 | Sungkyunkwan Medical AI Convergence Talent Training Group 
 
-<br/>
 ## 🏅 Awards
 - '24 Fall Sungkyunkwan Univ. College of Computing Research Paper/Project Award - Bronze Prize
 - '23 SKKU.THON - Gold Prize
@@ -22,7 +21,6 @@
 - '22 Sungkyunkwan Metaverse Hackathon - 2nd Place
 - '23, '22, '21 Sungkyunkwan SW Mentoring Results Presentation - 2nd Place
 
-<br/>
 ## 💻 Tech Stacks
 ##### 📌 Programming Languages
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,7 +43,6 @@
 - **Version Control** <br/>
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-<br/>
 ## 📚 Research Experiences
 - **Sungkyunkwan Univ. EMBA Business Administration and Information** <br/>
 | STAGE-AI Metrics: Designing Evaluation Metrics for Generative AI in Enterprises
@@ -54,7 +51,6 @@
 - **Sungkyunkwan Univ. Information and Intelligence System Lab** <br/>
 | Optimizing Multi-Label Classification Models with Imbalanced Datasets
 
-<br/>
 ## 🧳 Project Experiences
 - '24 SPARK (Start-Up Project)
 - '24 Korea-Nordic Future Challenge (Korea Foundation for Advanced Studies, KTH Royal Institute of Technology, Uppsala University, Aalto University)
@@ -63,7 +59,6 @@
 - '22 KAIST Immersion Camp: Intensive Programming and Startup
 - '21 Shinhan Bank (Industry-Academic Cooperation Project)
 
-<br/>
 ## 👥 Club Activities
 - **Federation of Gen AI Club Luddite** <br/>
 | Vice President
