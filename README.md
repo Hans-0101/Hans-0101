@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/user-attachments/assets/1840c97b-c4d0-4a86-96fd-4b7521cf025e" height="30vh"/>
+ <img src="https://github.com/user-attachments/assets/1840c97b-c4d0-4a86-96fd-4b7521cf025e" height="500vh"/>
 </p>
 
 ## 👩🏻‍🎓 Education
