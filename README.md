@@ -1,6 +1,7 @@
+<center> ![Image](https://github.com/user-attachments/assets/1840c97b-c4d0-4a86-96fd-4b7521cf025e) </center>
 
 ## 👩🏻‍🎓 Education
-- **Sungyunkwan University, Suwon(Seoul), Republic of Korea🇰🇷** <br/>
+- **Sungkyunkwan University, Suwon(Seoul), Republic of Korea🇰🇷** <br/>
 | Bachelor of Computer Science & Engineering
 - **ECE la Grande École de l'Ingénierie Numérique, Paris, France🇫🇷** <br/>
 | Master of Information System - 1th grade (Exchange Student)
