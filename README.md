@@ -1,4 +1,4 @@
-<center> ![Image](https://github.com/user-attachments/assets/1840c97b-c4d0-4a86-96fd-4b7521cf025e) </center>
+![Image](https://github.com/user-attachments/assets/1840c97b-c4d0-4a86-96fd-4b7521cf025e)
 
 ## 👩🏻‍🎓 Education
 - **Sungkyunkwan University, Suwon(Seoul), Republic of Korea🇰🇷** <br/>
